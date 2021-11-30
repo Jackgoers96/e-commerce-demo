@@ -32,7 +32,7 @@ To run:
 
 ## Usage
 
-![Management app demo]()
+![Management app demo](./assets/ORM (Unit 13).gif)
 
 This program is free to use if you're an awesome dude/dudette!
 
